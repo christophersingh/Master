@@ -1,2 +1,0 @@
-# Master
-Colab Master Notebooks
